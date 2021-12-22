@@ -16,6 +16,7 @@
           <th>ID</th>
           <th>コメント</th>
           <th>状態</th>
+          
         </tr>
       </thead>
       <tbody v-for="(task, index) in tasks" :key="index">
