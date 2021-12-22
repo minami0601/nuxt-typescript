@@ -14,8 +14,9 @@
       <thead>
         <tr>
           <th>ID</th>
-          <th>コメント</th>
           
+          <th>コメント</th>
+
           <th>状態</th>
 
         </tr>
